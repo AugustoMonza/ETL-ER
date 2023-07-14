@@ -69,4 +69,9 @@ El archivo `requirements.txt` contiene una lista de las dependencias y sus versi
 
 
 Diagrama Entidad Relación:
+
 ![App Screenshot](https://github.com/AugustoMonza/ETL-ER/blob/master/img/Diagrama%20ER.jpeg?raw=true)
+
+El porqué de este modelo:
+
+Se decidió utilizar la metodología Snowflake debido a que nos permite mayor consistencia y precisión en la normalización de los datos y un ahorro de mantenimientos a futuro lo que evita la duplicación de datos mejorando la eficiencia del almacenamiento. 
